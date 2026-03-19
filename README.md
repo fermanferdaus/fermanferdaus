@@ -1,89 +1,55 @@
 <h1 align="center">Hi 👋, I'm Ferman Ferdaus</h1>
-<h3 align="center">Full-Stack Developer | IoT Enthusiast | System Builder</h3>
-
----
+<h3 align="center">Full-Stack Developer | Backend Developer | IoT Enthusiast | System Integrator</h3>
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** who focuses on building real-world systems — not just apps that work, but systems that solve actual problems.
+I build scalable and real-world systems — from backend architecture to full-stack applications and IoT integrations.
 
-I work with **Laravel, React, and Node.js** to build scalable applications, from backend architecture to interactive dashboards.  
-I also integrate **IoT systems (ESP32)** for real-time monitoring and automation.
-
-💡 I don't just code — I design systems.
+Focused on creating efficient, reliable, and data-driven solutions.
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🖥️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ### 🔌 Others
 ![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-ESP32-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
 ---
 
-## 🔥 Featured Projects
+## 🔥 Specialization
 
-🚀 **POS System (Web-Based)**  
-- Laravel + React + Inertia  
-- Real-time transactions, inventory & financial reports  
-
-🌱 **IoT Monitoring System**  
-- ESP32 + REST API + Dashboard  
-- Real-time monitoring (pH, RPM, sensors)  
-
-🏪 **Multi-Branch Management System**  
-- React + Express + MySQL  
-- Integrated payments & payroll system  
-
-🤖 **Automation & Smart Systems**  
-- IoT + Web dashboard  
-- Real-time control & analytics  
+- Full-Stack Web Development  
+- Backend System & API Development  
+- IoT Integration & Real-Time Monitoring  
+- System Architecture & Integration  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fermanferdaus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermanferdaus&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🤝 Connect
 
-- System Architecture & Scalability  
-- Performance Optimization  
-- Clean Code & Best Practices  
-
----
-
-## 🤝 Connect With Me
-
-- 🌐 Website: https://fermanferdaus.my.id  
-- 📧 Email: fermanf91@gmail.com  
-- 💼 LinkedIn: (isi kalau ada)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy debugging more than writing code sometimes 😄  
-(because solving problems is the real game)
-
----
-
-⭐ *"Build systems that matter."*
+🌐 https://fermanferdaus.my.id  
+📧 fermanf91@gmail.com  
+💼 https://linkedin.com/in/ferman-ferdaus  
