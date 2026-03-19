@@ -1,7 +1,8 @@
 ## 🚀 About Me
 
-I build scalable and real-world systems, from backend architecture to full-stack applications and IoT integrations, focused on delivering efficient, reliable, and data-driven solutions.
-Building systems that are not only functional, but scalable and production-ready.
+I build scalable and real-world systems, from backend architecture to full-stack applications and IoT integrations, focused on delivering efficient, reliable, and data-driven solutions. 
+
+Currently working as a freelance **Full-Stack Web Developer** and **IoT Developer**, building web-based systems and real-time monitoring solutions.
 
 ## ⚡ Tech Stack
 
@@ -24,8 +25,8 @@ Building systems that are not only functional, but scalable and production-ready
 - IoT Integration & Real-Time Monitoring  
 - System Architecture & Integration  
 
-## 🤝 Connect
+## 🤝 Lets Connect!
 
-[![Website](https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fermanferdaus.my.id)
-[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fermanf91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ferman-ferdaus)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fermanferdaus.my.id)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fermanf91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferman-ferdaus)
